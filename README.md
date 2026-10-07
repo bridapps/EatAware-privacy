@@ -1,6 +1,6 @@
 # EatAware — Privacy Policy
 
-*Last updated: April 2026*
+*Last updated: October 2026*
 
 ## Data Collection
 
@@ -13,12 +13,14 @@ The only data stored on your device are your preferences:
 - Disclaimer acknowledgment (whether you've seen the welcome screen)
 - Theme preference (dark or light mode)
 - Location setting (your chosen country for distance calculations)
+- Language preference
+- Your shopping list
 
 This data is saved in your device's local storage. It never leaves your device and is not accessible to anyone, including the developer.
 
 ## Third-Party Services
 
-EatAware does not use any third-party services, SDKs, or APIs. On first launch, the app loads fonts from Google Fonts (fonts.googleapis.com). No personal data is sent in this request. After the fonts are cached, the app works fully offline.
+EatAware does not use any third-party services, SDKs, or APIs. The app does not request internet access and makes no network connections; all data, fonts and images are bundled inside the app.
 
 ## Children's Privacy
 
@@ -38,7 +40,7 @@ If you have questions about this privacy policy, contact us at:
 
 # EatAware — Terms of Service
 
-*Last updated: April 2026*
+*Last updated: October 2026*
 
 ## Educational Purpose
 
@@ -51,6 +53,8 @@ Environmental impact values are sourced from:
 - Poore & Nemecek (2018), published in *Science* — 38,700 farms across 119 countries
 - Agribalyse 3.2 (ADEME 2025) — French government lifecycle assessment database
 - Water Footprint Network — Mekonnen & Hoekstra (2010–2012)
+- The Big Climate Database v1.2 — CONCITO (2025), denstoreklimadatabase.dk
+- SU-EATABLE LIFE — Petersson T. et al. (2021), *A multilevel carbon and water footprint dataset of food commodities*, Scientific Data, doi:10.1038/s41597-021-00909-8
 
 Impacts can vary up to 50-fold between producers of the same product (Poore & Nemecek, 2018). Items marked "EST" are estimated from similar verified products, not directly measured.
 
